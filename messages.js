@@ -23,4 +23,6 @@ const citePeur = [
 ];
 const oss = [];
 const cEstArrive = [];
-const messages = [citePeur,oss,cEstArrive];
+//const messages = [citePeur,oss,cEstArrive];
+
+module.exports = { allMessages: [citePeur,oss,cEstArrive]};
