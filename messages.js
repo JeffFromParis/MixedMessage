@@ -1,3 +1,4 @@
+//Quotes from the movie "La Cité de la Peur"
 const citePeur = [
     "On peut tromper mille fois mille personnes, non, on peut tromper une fois mille personnes, mais on ne peut pas tromper mille fois mille personnes. Non, on peut tromper une fois mille personne mais on peut pas tromper mille fois une personne. Non...",
     "- Vous voulez un whisky ? - Non, juste un doigt. - Vous voulez pas un whisky d'abord ?",
@@ -21,8 +22,42 @@ const citePeur = [
     "- Tu prends quel lit Simon ? - ... [Il vomit sur un lit] - Ok donc moi je prends l'autre...",
     "- Dites, Simon, il va falloir me le vendre ce film... Trouvez des gimmicks, des phrases chocs. - Quel genres ? - Heu... Genre, genre... Genre des phrases chocs - Ah."
 ];
-const oss = [];
-const cEstArrive = [];
-//const messages = [citePeur,oss,cEstArrive];
+
+//Quotes from the movie "OSS177 : Le Caire, Nid d'Espions"
+const oss = [
+    "J'aime me beurrer la biscotte",
+    "- Mais ce sera surtout l'occasion de rencontrer le gratin Cairote. - Et non pas le gratin de pomme de terre ! Nan parce que ça ressemble à carotte, Cairote. Le, le légume, puisque vous avez dit gratin. Gratin de pommes de terre. C'est, c'est une astuce",
+    "En tout cas on peut dire que le Soviet éponge",
+    "Dépêchons nous je n'ai que quelques heures",
+    "- Je vous conduis ?- Je n'ai jamais pu refuser quoi que ce soit d'une brune aux yeux marrons. - Et si j'étais blonde aux yeux bleus ?- Cela ne changerait rien, vous êtes mon type de femme, Larmina. - Tiens donc. Et si j'étais naine et myope ?- Et bien, je ne vous laisserais pas conduire. Ça n'a pas de sens.",
+    "- Avant de partir sale espion, fais-moi l'amour ! - Non je ne crois pas non. - Pourquoi ?- Pas envie.",
+    "Raymond Pelletier : Hum... On va boire un verre ou prendre un pot au bar... Hum ? Un p'tit godet là... On retourne au bar ? Tu veux un verre ?",
+    "- Je ne te dirais rien Fennec ! - Et bien comme ça nous sommes quittes puisque de mon côté je ne vous ferrai pas l'amour. Oh bien sur je pourrais me servir de cet outil. Ceci est un pistolet. Par le passé il a su faire parler beaucoup de monde, hommes comme femmes d'ailleurs. Il se charge et se décharge comme ceci : chargé, déchargé, chargé, déchargé, chargé, déchargé. C'est une arme fiable, ferme, et qui a un coefficient de pénétration de.",
+    "C'est notre RAIS a nous, René COTI ! Un grand homme, il marquera l'histoire, il aime les cochinchinois, les malgaches, les sénégalais, les marocains... c'est donc ton ami",
+    "A l'occasion je vous mettrai un petit coup de polish",
+    "23 à 0 ! C'est la piquette Jack ! Tu sais pas jouer Jack ! T'es mauvais !",
+    "J'aime quand on m'enduit d'huile",
+    "Ce que j'ai vu ce soir là justifie toutes les tortures. Même si la pire des tortures fut de ne pas en voir plus.",
+    "- Nous avons besoin de vous sur place. Un Expert. Un spécialiste du monde Arabo-Musulman. - Arabo... ? - ... Musulman. Cherchez ce qu'avait découvert Jefferson et trouvez qui l'a tué. - Comptez sur moi. - Profitez-en pour me calmer tout ce petit monde. Américains, Soviétiques, Anglais. Confortez les positions de la France, instaurez la paix en Égypte, sécurisez le Proche-Orient. - Pas de problème.",
+];
+
+//Quotes from themovie "C'est Arrivé Près de Chez Vous"
+const cEstArrive = [
+    "Tour à tour finaud, tour à tour polisson, tour à tour gangster, mais tour à tour généreux. Quelque soit le montant que tu me demanderas Rémi, toujours, je dis bien toujours, Benoît y pourvoira.",
+    "Ah ! Les saligauds. Un veilleur de nuit noir. Si ça c’est pas un coup dans le dos. C’est dégoûtant, ils se croient tout permis ces gens là.",
+    "Un petit quidam, ça ne fait pas de vague... Tu tues une baleine, t’auras les écolos, t’auras Greenpeace, t’auras le commandant Cousteau sur le dos !",
+    "Gamin ! Gamin ! C’était pour rire gamin, tu vas pas rester tout seul dans ce bois !",
+    "ET MAMIE TROMBLON ? ELLE S’EST DÉJÀ FAIT TROMBLONNER MAMIE TROMBLON ? ",
+    "Quelle horreur, ça me dégoûte. Ils se croient tout permis ces gens. C'est comme ce ciment, tu peux être sûr que c'est un ciment hongrois, la loi de l’éternel provisoire, hein ? ",
+    "Pigeon, oiseau à la grise robe/dans l’enfer des villes/à mon regard tu te dérobes.../Tu es vraiment le plus agile.",
+    "Regarde moi ça. Dans dix ans, cette petite garce sucera des bites comme sa mère. Oh, tu imagines comment la nature est bien faite ? ... Incroyable, ça. Elle n’en sait rien encore. Si ça tombe, elle n’a pas vu la couleur d’un gland...",
+    "C'est terrible comme tu as mauvaise haleine, toi Rémy... Tu devrais faire attention, près du nez des gens car c'est désagréable au possible !",
+    "Des vieux pauvres, ça n’existe pas. Radins, oui. Pauvres, non.",
+    "Qu’est-ce t’attends, peau d’couille ? Le ressac !",
+    "Malou ! Nichons !",
+    "Une larme de gin, une larme. Une rivière de tonic... Et ensuite la p’tite victime, composée d’une petite olive, d’un p’tit morceau d’sucre et d’un p’tit bout d’ficelle. Et nous avons : Le P’tit Grégory.",
+    "Ils avaient pensé installer des cerisiers du Japon tout le long des allées... Du style cité balnéaire Anglaise ! ... Est-ce que tu crois qu’ils l’ont fait ?"
+];
+
 
 module.exports = { allMessages: [citePeur,oss,cEstArrive]};
